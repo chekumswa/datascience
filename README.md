@@ -1,2 +1,2 @@
 # datascience
-learning datscience
+learning datascience
